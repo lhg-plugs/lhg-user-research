@@ -1,0 +1,1 @@
+{"$schema": "https://json.schemastore.org/claude-code-marketplace.json", "name": "lhg-plugs", "owner": {"name": "刘洪光"}, "plugins": [{"name": "lhg-user-research", "description": "小白也能做专业用户调研：定目标→设计问卷→写访谈提纲→分析框架→洞察报告（37 条确定性规则防废卷）", "source": "./"}]}
